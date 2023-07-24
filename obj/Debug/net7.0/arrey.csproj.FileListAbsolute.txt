@@ -1,0 +1,15 @@
+C:\Users\sepehrrayaneh\Desktop\arrey\bin\Debug\net7.0\arrey.exe
+C:\Users\sepehrrayaneh\Desktop\arrey\bin\Debug\net7.0\arrey.deps.json
+C:\Users\sepehrrayaneh\Desktop\arrey\bin\Debug\net7.0\arrey.runtimeconfig.json
+C:\Users\sepehrrayaneh\Desktop\arrey\bin\Debug\net7.0\arrey.dll
+C:\Users\sepehrrayaneh\Desktop\arrey\bin\Debug\net7.0\arrey.pdb
+C:\Users\sepehrrayaneh\Desktop\arrey\obj\Debug\net7.0\arrey.csproj.AssemblyReference.cache
+C:\Users\sepehrrayaneh\Desktop\arrey\obj\Debug\net7.0\arrey.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sepehrrayaneh\Desktop\arrey\obj\Debug\net7.0\arrey.AssemblyInfoInputs.cache
+C:\Users\sepehrrayaneh\Desktop\arrey\obj\Debug\net7.0\arrey.AssemblyInfo.cs
+C:\Users\sepehrrayaneh\Desktop\arrey\obj\Debug\net7.0\arrey.csproj.CoreCompileInputs.cache
+C:\Users\sepehrrayaneh\Desktop\arrey\obj\Debug\net7.0\arrey.dll
+C:\Users\sepehrrayaneh\Desktop\arrey\obj\Debug\net7.0\refint\arrey.dll
+C:\Users\sepehrrayaneh\Desktop\arrey\obj\Debug\net7.0\arrey.pdb
+C:\Users\sepehrrayaneh\Desktop\arrey\obj\Debug\net7.0\arrey.genruntimeconfig.cache
+C:\Users\sepehrrayaneh\Desktop\arrey\obj\Debug\net7.0\ref\arrey.dll
